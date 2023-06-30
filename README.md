@@ -1,0 +1,1 @@
+Application built with Html, Css, Scss and Javascript
